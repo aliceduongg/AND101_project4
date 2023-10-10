@@ -8,7 +8,7 @@ Time spent: **5** hours spent in total
 
 **Test_Calc** is an android app that **helping calculation total payment including tip after dining in**
 
-If I had to describe this project in three (3) emojis, they would be: **emojis here**
+If I had to describe this project in three (3) emojis, they would be: **:snowman::seedling::blush:**
 
 ## Application Features
 
@@ -40,8 +40,7 @@ GIF created with **MacOS Recorder**
 
 
 ## Notes
--UI
--Compute calculation
+UI, Compute calculation
 ## License
 
 Copyright **2023** **Thao Duong**
