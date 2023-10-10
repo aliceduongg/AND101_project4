@@ -27,9 +27,7 @@ The following STRETCH features are implemented:
 
 The following EXTRA features are implemented:
 
-- [x] List anything else that you added to improve the app!
-      background color
-      formart numeber for indication
+- [x] List anything else that you added to improve the app: background color & formart numeber for indication
 
 ## Video Demo
 
